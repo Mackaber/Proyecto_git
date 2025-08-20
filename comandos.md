@@ -72,3 +72,13 @@ git checkout "Nombre de la rama"
 ```bash
 git checkout -b "Nombre de la nueva rama"
 ```
+
+- Para mezclar ramas (desde la rama principal)
+```bash
+git merge "Rama destino"
+```
+
+- Para mezclar ramas (desde una rama hija)
+```bash
+git rebase "Rama de origen"
+```

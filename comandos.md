@@ -23,3 +23,8 @@ git log
 ```bash
 git add comandos.md
 ```
+
+- git commit
+```bash
+git commit -m "Mensaje descriptivo"
+```

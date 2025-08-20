@@ -19,12 +19,17 @@ git log
 
 ![alt text](image.png)
 
-- git add
+- Añade archivos a la etapa de staged
 ```bash
 git add comandos.md
 ```
 
-- git commit
+- Quitar archivos del repositorio
+```bash
+git rm comandos.md
+```
+
+- Hace una versión de todos los archivos en staged
 ```bash
 git commit -m "Mensaje descriptivo"
 ```

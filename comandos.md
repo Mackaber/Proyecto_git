@@ -1,4 +1,4 @@
-# Comandos
+# Comandos de Git
 
 - Inicializar repositorio
 ```bash

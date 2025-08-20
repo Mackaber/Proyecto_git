@@ -62,3 +62,13 @@ git pull
 ```bash
 git branch "Nombre de la rama"
 ```
+
+- Cambiar a una rama
+```bash
+git checkout "Nombre de la rama"
+```
+
+(Tip) Para crear una rama y cambiar a ella
+```bash
+git checkout -b "Nombre de la nueva rama"
+```

@@ -55,3 +55,10 @@ git push
 ```bash
 git pull
 ```
+
+## Control de ramas (branches)
+
+- Crear una nueva rama
+```bash
+git branch "Nombre de la rama"
+```

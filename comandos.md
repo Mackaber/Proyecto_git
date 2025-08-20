@@ -33,3 +33,25 @@ git rm comandos.md
 ```bash
 git commit -m "Mensaje descriptivo"
 ```
+
+## Repositorios en línea
+
+- Añadir un repositorio remoto
+```bash
+git remote add origin https://direccion-remota.com/git
+```
+
+- Hacer una copia de un repositorio existente
+```bash
+git clone https://direccion-remota.com/git
+```
+
+- Subir nuestros cambios al repositorio remoto
+```bash
+git push
+```
+
+- Descargar los cambios del reposiotio remoto
+```bash
+git pull
+```
